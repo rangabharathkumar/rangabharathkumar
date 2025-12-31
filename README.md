@@ -119,19 +119,6 @@ Below is the full list of your public GitHub repositories:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rangabharathkumar&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangabharathkumar&layout=compact&theme=tokyonight" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangabharathkumar&theme=tokyonight" />
-</p>
-
----
-
 # 🏅 Certifications
 - AWS Technical Essentials  
 - Amazon Junior Software Developer Certificate  
